@@ -1,4 +1,4 @@
-![image](https://github.com/JASWANT2001/JASWANT2001/assets/113849693/335f526e-f17e-4e69-99c4-e898dc8e14df)### Hi there 👋
+### Hi there 👋
 
 👩‍💻 About Me
 Hello, I'm Jaswant from India.

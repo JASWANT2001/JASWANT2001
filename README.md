@@ -6,10 +6,10 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/rathishkumar-m" target="_blank">
+  <a href="www.linkedin.com/in/jaswant2001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/rathish07" target="_blank">
+  <a href="https://twitter.com/jaswant_2001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
@@ -30,8 +30,8 @@
 
 ###
 
-<p align="left">Hello, I'm Rathish Kumar from India.<br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning Spring Boot and React Js<br>- ⚡ In my free time I do Web surfing<br>- 💬 Ask me about Java<br>
-- 📫 How to reach me <a href="https://linkedin.com/in/rathishkumar-m">LinkedIn</p>
+<p align="left">Hello, I'm Jaswant K from India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I do Web surfing<br>
+- 📫 How to reach me <a href="www.linkedin.com/in/jaswant2001">LinkedIn</p>
 
 ###
 

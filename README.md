@@ -1,6 +1,6 @@
 
-<div align="center">
-  <img height="100%" src="https://github.com/JASWANT2001/JASWANT2001/assets/113849693/6a020d35-5c67-4787-804a-44c4e1c8b81a"  />
+div align="center">
+  <img height="100%" src="https://github.com/JASWANT2001/JASWANT2001/assets/113849693/c2a54973-7998-4c43-8020-97e81063211a"/>
 </div>
 
 ###

@@ -10,7 +10,7 @@ Hello, I'm Jaswant from India.
 - 🔭 I’m working as Developer
 - 📚 I'm currently learning React Js
 - ⚡ In my free time I do Web surfing
-- 📫 How to reach me www.linkedin.com/in/jaswant2001
+- 📫 How to reach me  ![LinkedIn](www.linkedin.com/in/jaswant2001)
 
   
 

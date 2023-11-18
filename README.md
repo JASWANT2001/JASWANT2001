@@ -83,11 +83,16 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RATHISHKUMAR07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="198" alt="languages graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=RATHISHKUMAR07&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="178" alt="streak graph"  /> --> 
   
-![](https://github-readme-stats.vercel.app/api?username=JASWANT2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JASWANT2001&theme=radical&hide_border=false)
 <br/>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JASWANT2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=JASWANT2001&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
+
 </div>
 
 ###
@@ -98,7 +103,7 @@ ________________________________________________________________________________
   
 ![](https://github-profile-trophy.vercel.app/?username=JASWANT2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+
 <!-- [![](https://visitcount.itsvg.in/api?id=JASWANT2001&icon=2&color=10)](https://visitcount.itsvg.in)--> 
 </div>
 

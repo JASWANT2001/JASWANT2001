@@ -32,6 +32,7 @@
 
 <p align="left">Hello, I'm Jaswant K from Tamil Nadu, India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I do Web surfing<br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jaswant2001/">LinkedIn</p>
+----
 
 ###
 
@@ -68,7 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> -->
 </div>
-
+----
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -88,9 +89,9 @@
 </div>
 
 ###
-
+-----
 ###
-
+<h3 align="left">🏆 GitHub Trophies :</h3>
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=JASWANT2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)

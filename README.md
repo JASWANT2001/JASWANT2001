@@ -23,7 +23,7 @@
 ###
 
 <!--<h1 align="center">Hey there 👋</h1> -->
-
+_______________________________________________________________________________________________________
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -32,7 +32,7 @@
 
 <p align="left">Hello, I'm Jaswant K from Tamil Nadu, India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning React Js<br>- ⚡ In my free time I do Web surfing<br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jaswant2001/">LinkedIn</p>
-----
+_______________________________________________________________________________________________________
 
 ###
 
@@ -69,7 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> -->
 </div>
-----
+_______________________________________________________________________________________________________
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -89,7 +89,7 @@
 </div>
 
 ###
------
+_______________________________________________________________________________________________________
 ###
 <h3 align="left">🏆 GitHub Trophies :</h3>
 <div align="center">
@@ -99,4 +99,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JASWANT2001&icon=2&color=10)](https://visitcount.itsvg.in)
 </div>
-###
+

@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 ###
 
-<p align="left">Hello, I'm Jaswant K from Tamil Nadu, India.<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Next Js<br>- ⚡ In my free time I do Web surfing<br>
+<p align="left">Hello, I'm Jaswant from Tamil Nadu, India.<br><br>- 🔭 I’m working as Mern Stack Developer<br>- 📚 I'm currently learning Next Js<br>- ⚡ In my free time I do Web surfing<br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jaswant2001/">LinkedIn</p>
 
 

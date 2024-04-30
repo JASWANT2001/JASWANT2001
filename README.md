@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jaswant2001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/_.jassh_" target="_blank">
+  <a href="https://instagram.com/jasshh.__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
   </a>
 </div>
